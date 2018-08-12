@@ -1,6 +1,6 @@
 void main()
 {
-  int i=1;j=1;
+  int i=1,j=1;
   for(i=1;i<=90;i++)//....................SCANNED DATA
   {
     for(j=1;j<=90;j++)

@@ -1,0 +1,19 @@
+things to know:
+
+will the lead and theta affect the variation
+if not then is it possible
+
+this is a regression problem
+(logistic regression may be applied to obtain a graph of variation)
+
+variation parameters(graphical)         _
+    max and min value            _     / \
+    frequency                   / \   /   \          _____    /
+    mean                       /   \_/     \        /     \ _/
+    standard deviation        /             \______/
+
+variation parameters(non graphical)
+    lead
+    angle
+
+(now the main algo will work)
