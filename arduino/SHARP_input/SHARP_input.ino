@@ -12,7 +12,7 @@ void loop()
 {
   // put your main code here, to run repeatedly:
   val=analogRead(A0);
-  //Serial.println(val);
+ // Serial.println(val);
   delay(10);
   flag=1;
   if(count<=100)

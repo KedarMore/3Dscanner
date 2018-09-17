@@ -31,4 +31,6 @@ void main()
     sd=sqrt(sum/100);
 
     //machine learning algo
+    //multiple regression
+
 }
