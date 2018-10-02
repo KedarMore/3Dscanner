@@ -16,4 +16,4 @@ variation parameters(non graphical)
     lead
     angle
 
-(now the main algo will work)
+(now the main algorithm will work)
