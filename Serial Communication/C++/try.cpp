@@ -114,7 +114,7 @@ int readData(char *buffer,unsigned int nbChar){
         std::copy(str.begin(), str.end(), writable);
         writable[str.size()] = '\0';
 
-        connectPrinter(writable); 
+        connectPrinter(writable);
         delete []writable;
         readData(buffer,nbChar);
         return 0;
