@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 int count=1,flag=0;
 float val,avg,sum=0;
 
