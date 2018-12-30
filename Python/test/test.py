@@ -5,9 +5,13 @@ arduinoSerial.readline()
 file=open("/home/kedar/OpenSource/3Dscanner/File/h.txt",'w')
 
 while True:
-    print arduinoSerial.readline()
+    #print arduinoSerial.readline()
     x=arduinoSerial.readline()
-    file.write("\nx=%c" %x)
+    number=float(x)
+    if number>=1:
+        print number
+        #print number
+        file.write("\nx=%.3f" %number)
+        pass
     pass
-
 file.close()

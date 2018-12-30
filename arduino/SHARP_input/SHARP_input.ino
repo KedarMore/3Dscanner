@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
-int count=1,flag=0;
-float val,avg,sum=0;
+int count=1,flag=0,value;
+float avg,sum=0,val;
 
 void setup()
 {
@@ -14,8 +14,10 @@ void loop()
 {
   // put your main code here, to run repeatedly:
   val=analogRead(A0);
- // Serial.println(val);
-  delay(10);
+  val=(6768/(val-3))-4;
+  Serial.println(val);
+  delay(100);
+  /*
   flag=1;
   if(count<=100)
   {
@@ -29,5 +31,5 @@ void loop()
     Serial.println(avg);
     sum=0;
     count=1;
-  }
+  }*/
 }
