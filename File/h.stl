@@ -1,0 +1,1202 @@
+solid KEDAR
+	facet normal	714.00	640.00	638.00
+		outer loop
+			vertex 638.00	641.00	640.00
+			vertex 639.00	638.00	640.00
+			vertex 639.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	641.00	642.00	640.00
+		outer loop
+			vertex 639.00	640.00	640.00
+			vertex 639.00	639.00	639.00
+			vertex 639.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	643.00	641.00	640.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 639.00	639.00	645.00
+			vertex 714.00	640.00	640.00
+		endloop
+	endfacet
+	facet normal	641.00	640.00	639.00
+		outer loop
+			vertex 638.00	640.00	639.00
+			vertex 639.00	720.00	648.00
+			vertex 642.00	639.00	640.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	639.00
+		outer loop
+			vertex 640.00	643.00	719.00
+			vertex 639.00	646.00	642.00
+			vertex 640.00	639.00	640.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	638.00
+		outer loop
+			vertex 645.00	715.00	641.00
+			vertex 639.00	640.00	640.00
+			vertex 639.00	639.00	640.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	716.00
+		outer loop
+			vertex 652.00	644.00	639.00
+			vertex 639.00	639.00	639.00
+			vertex 639.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	717.00	638.00	639.00
+		outer loop
+			vertex 641.00	640.00	639.00
+			vertex 640.00	639.00	639.00
+			vertex 639.00	644.00	720.00
+		endloop
+	endfacet
+	facet normal	645.00	641.00	640.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 639.00	639.00	639.00
+			vertex 718.00	646.00	642.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	639.00
+		outer loop
+			vertex 639.00	638.00	639.00
+			vertex 639.00	715.00	638.00
+			vertex 639.00	640.00	639.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	639.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 712.00	648.00	643.00
+			vertex 640.00	639.00	638.00
+		endloop
+	endfacet
+	facet normal	639.00	638.00	638.00
+		outer loop
+			vertex 639.00	718.00	642.00
+			vertex 639.00	639.00	639.00
+			vertex 637.00	638.00	638.00
+		endloop
+	endfacet
+	facet normal	639.00	638.00	712.00
+		outer loop
+			vertex 714.00	638.00	638.00
+			vertex 638.00	639.00	639.00
+			vertex 638.00	638.00	638.00
+		endloop
+	endfacet
+	facet normal	638.00	718.00	646.00
+		outer loop
+			vertex 642.00	640.00	639.00
+			vertex 638.00	639.00	638.00
+			vertex 638.00	639.00	715.00
+		endloop
+	endfacet
+	facet normal	714.00	641.00	639.00
+		outer loop
+			vertex 639.00	637.00	637.00
+			vertex 638.00	638.00	637.00
+			vertex 643.00	713.00	638.00
+		endloop
+	endfacet
+	facet normal	637.00	637.00	638.00
+		outer loop
+			vertex 638.00	637.00	637.00
+			vertex 638.00	638.00	638.00
+			vertex 641.00	640.00	640.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 638.00	638.00	639.00
+			vertex 714.00	714.00	644.00
+			vertex 640.00	639.00	638.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 639.00	644.00	715.00
+			vertex 642.00	638.00	640.00
+			vertex 640.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 638.00	642.00	640.00
+			vertex 639.00	639.00	640.00
+			vertex 639.00	638.00	638.00
+		endloop
+	endfacet
+	facet normal	639.00	713.00	714.00
+		outer loop
+			vertex 646.00	642.00	639.00
+			vertex 639.00	638.00	640.00
+			vertex 639.00	639.00	644.00
+		endloop
+	endfacet
+	facet normal	715.00	640.00	638.00
+		outer loop
+			vertex 639.00	640.00	639.00
+			vertex 639.00	639.00	639.00
+			vertex 639.00	638.00	643.00
+		endloop
+	endfacet
+	facet normal	641.00	639.00	639.00
+		outer loop
+			vertex 640.00	639.00	639.00
+			vertex 639.00	639.00	710.00
+			vertex 714.00	644.00	642.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	639.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 639.00	720.00	643.00
+			vertex 639.00	639.00	640.00
+		endloop
+	endfacet
+	facet normal	638.00	639.00	639.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 639.00	643.00	640.00
+			vertex 639.00	640.00	639.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 644.00	714.00	640.00
+			vertex 641.00	640.00	640.00
+			vertex 639.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	638.00	639.00	720.00
+		outer loop
+			vertex 647.00	641.00	639.00
+			vertex 639.00	639.00	639.00
+			vertex 640.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	719.00	639.00	645.00
+		outer loop
+			vertex 641.00	640.00	639.00
+			vertex 639.00	639.00	639.00
+			vertex 639.00	643.00	714.00
+		endloop
+	endfacet
+	facet normal	641.00	640.00	639.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 639.00	639.00	639.00
+			vertex 716.00	649.00	643.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 640.00	640.00	639.00
+			vertex 639.00	719.00	639.00
+			vertex 639.00	642.00	641.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	639.00
+		outer loop
+			vertex 640.00	639.00	643.00
+			vertex 714.00	644.00	640.00
+			vertex 639.00	639.00	640.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 639.00	718.00	649.00
+			vertex 644.00	640.00	639.00
+			vertex 639.00	640.00	640.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	717.00
+		outer loop
+			vertex 640.00	639.00	641.00
+			vertex 641.00	640.00	639.00
+			vertex 639.00	640.00	639.00
+		endloop
+	endfacet
+	facet normal	638.00	713.00	648.00
+		outer loop
+			vertex 642.00	640.00	639.00
+			vertex 640.00	639.00	638.00
+			vertex 639.00	639.00	719.00
+		endloop
+	endfacet
+	facet normal	643.00	641.00	641.00
+		outer loop
+			vertex 639.00	638.00	640.00
+			vertex 639.00	639.00	639.00
+			vertex 715.00	715.00	638.00
+		endloop
+	endfacet
+	facet normal	640.00	640.00	639.00
+		outer loop
+			vertex 639.00	639.00	640.00
+			vertex 639.00	639.00	716.00
+			vertex 651.00	643.00	640.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	639.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 718.00	643.00	641.00
+			vertex 639.00	639.00	638.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	639.00
+		outer loop
+			vertex 639.00	714.00	714.00
+			vertex 639.00	639.00	640.00
+			vertex 639.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 639.00	650.00	643.00
+			vertex 641.00	640.00	640.00
+			vertex 639.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	639.00	716.00	649.00
+		outer loop
+			vertex 642.00	640.00	639.00
+			vertex 639.00	640.00	639.00
+			vertex 639.00	639.00	711.00
+		endloop
+	endfacet
+	facet normal	714.00	646.00	639.00
+		outer loop
+			vertex 640.00	639.00	639.00
+			vertex 639.00	639.00	639.00
+			vertex 639.00	639.00	647.00
+		endloop
+	endfacet
+	facet normal	641.00	640.00	640.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 639.00	639.00	715.00
+			vertex 715.00	644.00	640.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	638.00
+		outer loop
+			vertex 639.00	638.00	639.00
+			vertex 644.00	714.00	642.00
+			vertex 639.00	639.00	638.00
+		endloop
+	endfacet
+	facet normal	638.00	639.00	639.00
+		outer loop
+			vertex 638.00	639.00	639.00
+			vertex 645.00	639.00	640.00
+			vertex 640.00	639.00	638.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	638.00
+		outer loop
+			vertex 713.00	715.00	644.00
+			vertex 640.00	638.00	639.00
+			vertex 638.00	637.00	638.00
+		endloop
+	endfacet
+	facet normal	638.00	643.00	713.00
+		outer loop
+			vertex 640.00	639.00	638.00
+			vertex 637.00	638.00	638.00
+			vertex 637.00	637.00	639.00
+		endloop
+	endfacet
+	facet normal	638.00	637.00	638.00
+		outer loop
+			vertex 639.00	639.00	638.00
+			vertex 638.00	638.00	638.00
+			vertex 637.00	711.00	714.00
+		endloop
+	endfacet
+	facet normal	644.00	640.00	638.00
+		outer loop
+			vertex 638.00	638.00	637.00
+			vertex 638.00	638.00	643.00
+			vertex 713.00	640.00	639.00
+		endloop
+	endfacet
+	facet normal	637.00	638.00	638.00
+		outer loop
+			vertex 638.00	637.00	638.00
+			vertex 639.00	712.00	637.00
+			vertex 638.00	639.00	638.00
+		endloop
+	endfacet
+	facet normal	638.00	638.00	639.00
+		outer loop
+			vertex 638.00	637.00	712.00
+			vertex 714.00	644.00	639.00
+			vertex 638.00	638.00	638.00
+		endloop
+	endfacet
+	facet normal	637.00	638.00	638.00
+		outer loop
+			vertex 643.00	713.00	640.00
+			vertex 638.00	637.00	638.00
+			vertex 639.00	638.00	638.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	716.00
+		outer loop
+			vertex 638.00	638.00	640.00
+			vertex 639.00	638.00	638.00
+			vertex 639.00	639.00	638.00
+		endloop
+	endfacet
+	facet normal	713.00	714.00	645.00
+		outer loop
+			vertex 641.00	640.00	639.00
+			vertex 638.00	638.00	639.00
+			vertex 639.00	643.00	714.00
+		endloop
+	endfacet
+	facet normal	641.00	639.00	640.00
+		outer loop
+			vertex 638.00	639.00	639.00
+			vertex 639.00	639.00	639.00
+			vertex 716.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 639.00	639.00	638.00
+			vertex 638.00	639.00	714.00
+			vertex 644.00	641.00	640.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 720.00	643.00	639.00
+			vertex 638.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	638.00	639.00	639.00
+		outer loop
+			vertex 639.00	718.00	649.00
+			vertex 639.00	639.00	638.00
+			vertex 638.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	638.00	639.00	639.00
+		outer loop
+			vertex 713.00	641.00	640.00
+			vertex 640.00	639.00	639.00
+			vertex 638.00	638.00	638.00
+		endloop
+	endfacet
+	facet normal	639.00	720.00	642.00
+		outer loop
+			vertex 640.00	638.00	639.00
+			vertex 638.00	638.00	638.00
+			vertex 639.00	639.00	718.00
+		endloop
+	endfacet
+	facet normal	648.00	639.00	638.00
+		outer loop
+			vertex 637.00	638.00	638.00
+			vertex 638.00	637.00	639.00
+			vertex 638.00	637.00	640.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	638.00
+		outer loop
+			vertex 638.00	638.00	639.00
+			vertex 638.00	639.00	720.00
+			vertex 646.00	641.00	639.00
+		endloop
+	endfacet
+	facet normal	639.00	638.00	638.00
+		outer loop
+			vertex 637.00	638.00	639.00
+			vertex 717.00	644.00	643.00
+			vertex 638.00	638.00	638.00
+		endloop
+	endfacet
+	facet normal	638.00	638.00	637.00
+		outer loop
+			vertex 638.00	638.00	637.00
+			vertex 640.00	640.00	639.00
+			vertex 638.00	638.00	638.00
+		endloop
+	endfacet
+	facet normal	638.00	637.00	639.00
+		outer loop
+			vertex 712.00	644.00	639.00
+			vertex 636.00	637.00	636.00
+			vertex 635.00	636.00	636.00
+		endloop
+	endfacet
+	facet normal	639.00	715.00	642.00
+		outer loop
+			vertex 639.00	635.00	635.00
+			vertex 636.00	636.00	635.00
+			vertex 635.00	637.00	713.00
+		endloop
+	endfacet
+	facet normal	631.00	635.00	633.00
+		outer loop
+			vertex 632.00	631.00	631.00
+			vertex 632.00	631.00	631.00
+			vertex 636.00	707.00	637.00
+		endloop
+	endfacet
+	facet normal	632.00	632.00	631.00
+		outer loop
+			vertex 631.00	632.00	631.00
+			vertex 632.00	635.00	710.00
+			vertex 640.00	634.00	632.00
+		endloop
+	endfacet
+	facet normal	631.00	632.00	632.00
+		outer loop
+			vertex 631.00	631.00	633.00
+			vertex 709.00	631.00	631.00
+			vertex 634.00	632.00	631.00
+		endloop
+	endfacet
+	facet normal	631.00	632.00	631.00
+		outer loop
+			vertex 631.00	632.00	708.00
+			vertex 636.00	632.00	632.00
+			vertex 632.00	631.00	631.00
+		endloop
+	endfacet
+	facet normal	636.00	635.00	639.00
+		outer loop
+			vertex 715.00	642.00	638.00
+			vertex 636.00	635.00	636.00
+			vertex 636.00	635.00	635.00
+		endloop
+	endfacet
+	facet normal	636.00	711.00	711.00
+		outer loop
+			vertex 637.00	639.00	637.00
+			vertex 637.00	637.00	637.00
+			vertex 637.00	636.00	638.00
+		endloop
+	endfacet
+	facet normal	713.00	644.00	640.00
+		outer loop
+			vertex 639.00	638.00	637.00
+			vertex 638.00	638.00	638.00
+			vertex 639.00	717.00	643.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	638.00
+		outer loop
+			vertex 639.00	638.00	638.00
+			vertex 639.00	639.00	715.00
+			vertex 658.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	640.00	639.00	639.00
+		outer loop
+			vertex 639.00	638.00	638.00
+			vertex 639.00	720.00	645.00
+			vertex 641.00	640.00	639.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 638.00	639.00	718.00
+			vertex 646.00	642.00	640.00
+			vertex 639.00	639.00	638.00
+		endloop
+	endfacet
+	facet normal	638.00	639.00	639.00
+		outer loop
+			vertex 716.00	648.00	639.00
+			vertex 638.00	639.00	639.00
+			vertex 639.00	638.00	638.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	638.00
+		outer loop
+			vertex 644.00	640.00	639.00
+			vertex 639.00	638.00	639.00
+			vertex 639.00	638.00	639.00
+		endloop
+	endfacet
+	facet normal	718.00	648.00	642.00
+		outer loop
+			vertex 640.00	640.00	638.00
+			vertex 638.00	638.00	639.00
+			vertex 639.00	716.00	644.00
+		endloop
+	endfacet
+	facet normal	640.00	638.00	639.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 638.00	639.00	713.00
+			vertex 638.00	642.00	640.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 639.00	639.00	638.00
+			vertex 639.00	716.00	648.00
+			vertex 642.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	638.00	638.00	639.00
+		outer loop
+			vertex 639.00	639.00	717.00
+			vertex 644.00	640.00	638.00
+			vertex 638.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	639.00	638.00	639.00
+		outer loop
+			vertex 713.00	639.00	638.00
+			vertex 640.00	639.00	639.00
+			vertex 639.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	638.00	639.00	718.00
+		outer loop
+			vertex 649.00	642.00	640.00
+			vertex 640.00	639.00	638.00
+			vertex 639.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	717.00	644.00	640.00
+		outer loop
+			vertex 640.00	638.00	639.00
+			vertex 639.00	638.00	638.00
+			vertex 639.00	713.00	639.00
+		endloop
+	endfacet
+	facet normal	638.00	640.00	639.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 639.00	638.00	639.00
+			vertex 716.00	647.00	643.00
+		endloop
+	endfacet
+	facet normal	641.00	639.00	639.00
+		outer loop
+			vertex 638.00	638.00	638.00
+			vertex 639.00	717.00	642.00
+			vertex 638.00	638.00	638.00
+		endloop
+	endfacet
+	facet normal	638.00	638.00	638.00
+		outer loop
+			vertex 638.00	638.00	713.00
+			vertex 713.00	638.00	639.00
+			vertex 638.00	638.00	639.00
+		endloop
+	endfacet
+	facet normal	638.00	638.00	637.00
+		outer loop
+			vertex 638.00	712.00	647.00
+			vertex 641.00	639.00	638.00
+			vertex 638.00	638.00	639.00
+		endloop
+	endfacet
+	facet normal	638.00	639.00	718.00
+		outer loop
+			vertex 642.00	639.00	640.00
+			vertex 638.00	639.00	639.00
+			vertex 639.00	639.00	639.00
+		endloop
+	endfacet
+	facet normal	714.00	714.00	639.00
+		outer loop
+			vertex 638.00	639.00	639.00
+			vertex 639.00	639.00	638.00
+			vertex 638.00	639.00	638.00
+		endloop
+	endfacet
+	facet normal	647.00	642.00	640.00
+		outer loop
+			vertex 639.00	638.00	639.00
+			vertex 639.00	638.00	639.00
+			vertex 719.00	642.00	640.00
+		endloop
+	endfacet
+	facet normal	640.00	640.00	639.00
+		outer loop
+			vertex 638.00	639.00	639.00
+			vertex 638.00	714.00	714.00
+			vertex 641.00	638.00	639.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	639.00
+		outer loop
+			vertex 639.00	639.00	639.00
+			vertex 638.00	646.00	642.00
+			vertex 640.00	638.00	638.00
+		endloop
+	endfacet
+	facet normal	639.00	639.00	638.00
+		outer loop
+			vertex 639.00	719.00	643.00
+			vertex 640.00	640.00	640.00
+			vertex 639.00	638.00	639.00
+		endloop
+	endfacet
+	facet normal	639.00	638.00	715.00
+		outer loop
+			vertex 715.00	642.00	639.00
+			vertex 638.00	639.00	639.00
+			vertex 638.00	638.00	639.00
+		endloop
+	endfacet
+	facet normal	711.00	637.00	642.00
+		outer loop
+			vertex 640.00	638.00	638.00
+			vertex 638.00	638.00	638.00
+			vertex 637.00	639.00	718.00
+		endloop
+	endfacet
+	facet normal	644.00	640.00	639.00
+		outer loop
+			vertex 639.00	638.00	636.00
+			vertex 637.00	637.00	637.00
+			vertex 714.00	644.00	639.00
+		endloop
+	endfacet
+	facet normal	637.00	637.00	637.00
+		outer loop
+			vertex 637.00	637.00	636.00
+			vertex 637.00	711.00	636.00
+			vertex 636.00	638.00	637.00
+		endloop
+	endfacet
+	facet normal	637.00	637.00	637.00
+		outer loop
+			vertex 637.00	636.00	635.00
+			vertex 716.00	644.00	639.00
+			vertex 637.00	636.00	635.00
+		endloop
+	endfacet
+	facet normal	635.00	635.00	636.00
+		outer loop
+			vertex 635.00	713.00	642.00
+			vertex 636.00	635.00	635.00
+			vertex 636.00	635.00	635.00
+		endloop
+	endfacet
+	facet normal	635.00	636.00	710.00
+		outer loop
+			vertex 710.00	635.00	636.00
+			vertex 635.00	635.00	635.00
+			vertex 635.00	635.00	635.00
+		endloop
+	endfacet
+	facet normal	634.00	712.00	641.00
+		outer loop
+			vertex 636.00	635.00	634.00
+			vertex 633.00	633.00	630.00
+			vertex 629.00	631.00	708.00
+		endloop
+	endfacet
+	facet normal	634.00	630.00	629.00
+		outer loop
+			vertex 629.00	629.00	629.00
+			vertex 628.00	629.00	629.00
+			vertex 705.00	705.00	629.00
+		endloop
+	endfacet
+	facet normal	630.00	629.00	629.00
+		outer loop
+			vertex 630.00	629.00	629.00
+			vertex 628.00	632.00	707.00
+			vertex 636.00	633.00	632.00
+		endloop
+	endfacet
+	facet normal	632.00	631.00	631.00
+		outer loop
+			vertex 632.00	631.00	631.00
+			vertex 711.00	638.00	633.00
+			vertex 632.00	632.00	632.00
+		endloop
+	endfacet
+	facet normal	631.00	631.00	632.00
+		outer loop
+			vertex 633.00	709.00	644.00
+			vertex 632.00	629.00	629.00
+			vertex 629.00	629.00	629.00
+		endloop
+	endfacet
+	facet normal	629.00	628.00	629.00
+		outer loop
+			vertex 629.00	633.00	630.00
+			vertex 630.00	629.00	628.00
+			vertex 629.00	630.00	632.00
+		endloop
+	endfacet
+	facet normal	635.00	712.00	640.00
+		outer loop
+			vertex 634.00	632.00	632.00
+			vertex 632.00	629.00	629.00
+			vertex 629.00	629.00	707.00
+		endloop
+	endfacet
+	facet normal	635.00	631.00	629.00
+		outer loop
+			vertex 629.00	629.00	629.00
+			vertex 629.00	629.00	629.00
+			vertex 705.00	631.00	633.00
+		endloop
+	endfacet
+	facet normal	632.00	632.00	632.00
+		outer loop
+			vertex 631.00	631.00	632.00
+			vertex 629.00	633.00	708.00
+			vertex 635.00	631.00	629.00
+		endloop
+	endfacet
+	facet normal	629.00	629.00	631.00
+		outer loop
+			vertex 631.00	632.00	631.00
+			vertex 711.00	638.00	634.00
+			vertex 632.00	629.00	629.00
+		endloop
+	endfacet
+	facet normal	629.00	629.00	629.00
+		outer loop
+			vertex 629.00	707.00	629.00
+			vertex 629.00	631.00	629.00
+			vertex 628.00	629.00	630.00
+		endloop
+	endfacet
+	facet normal	629.00	629.00	634.00
+		outer loop
+			vertex 705.00	634.00	630.00
+			vertex 629.00	629.00	629.00
+			vertex 632.00	631.00	632.00
+		endloop
+	endfacet
+	facet normal	635.00	710.00	640.00
+		outer loop
+			vertex 635.00	632.00	629.00
+			vertex 629.00	629.00	628.00
+			vertex 629.00	631.00	708.00
+		endloop
+	endfacet
+	facet normal	629.00	626.00	628.00
+		outer loop
+			vertex 626.00	626.00	626.00
+			vertex 627.00	626.00	626.00
+			vertex 623.00	704.00	627.00
+		endloop
+	endfacet
+	facet normal	623.00	624.00	624.00
+		outer loop
+			vertex 623.00	623.00	627.00
+			vertex 626.00	630.00	704.00
+			vertex 633.00	628.00	627.00
+		endloop
+	endfacet
+	facet normal	626.00	630.00	629.00
+		outer loop
+			vertex 629.00	629.00	631.00
+			vertex 709.00	634.00	627.00
+			vertex 628.00	626.00	626.00
+		endloop
+	endfacet
+	facet normal	626.00	627.00	626.00
+		outer loop
+			vertex 626.00	627.00	704.00
+			vertex 629.00	627.00	627.00
+			vertex 627.00	626.00	626.00
+		endloop
+	endfacet
+	facet normal	627.00	626.00	630.00
+		outer loop
+			vertex 704.00	632.00	628.00
+			vertex 626.00	627.00	624.00
+			vertex 623.00	623.00	623.00
+		endloop
+	endfacet
+	facet normal	627.00	702.00	630.00
+		outer loop
+			vertex 624.00	624.00	623.00
+			vertex 623.00	624.00	624.00
+			vertex 623.00	623.00	625.00
+		endloop
+	endfacet
+	facet normal	626.00	630.00	627.00
+		outer loop
+			vertex 627.00	626.00	626.00
+			vertex 626.00	624.00	623.00
+			vertex 627.00	704.00	627.00
+		endloop
+	endfacet
+	facet normal	624.00	623.00	624.00
+		outer loop
+			vertex 624.00	623.00	623.00
+			vertex 624.00	627.00	700.00
+			vertex 628.00	625.00	621.00
+		endloop
+	endfacet
+	facet normal	620.00	620.00	621.00
+		outer loop
+			vertex 620.00	620.00	623.00
+			vertex 621.00	623.00	626.00
+			vertex 624.00	624.00	623.00
+		endloop
+	endfacet
+	facet normal	623.00	623.00	624.00
+		outer loop
+			vertex 623.00	627.00	704.00
+			vertex 627.00	624.00	623.00
+			vertex 623.00	624.00	626.00
+		endloop
+	endfacet
+	facet normal	626.00	627.00	630.00
+		outer loop
+			vertex 704.00	630.00	628.00
+			vertex 626.00	626.00	626.00
+			vertex 627.00	626.00	626.00
+		endloop
+	endfacet
+	facet normal	630.00	706.00	626.00
+		outer loop
+			vertex 628.00	627.00	626.00
+			vertex 626.00	626.00	627.00
+			vertex 627.00	623.00	694.00
+		endloop
+	endfacet
+	facet normal	700.00	627.00	624.00
+		outer loop
+			vertex 623.00	623.00	623.00
+			vertex 621.00	620.00	621.00
+			vertex 623.00	696.00	624.00
+		endloop
+	endfacet
+	facet normal	621.00	620.00	620.00
+		outer loop
+			vertex 620.00	620.00	620.00
+			vertex 620.00	625.00	696.00
+			vertex 620.00	620.00	621.00
+		endloop
+	endfacet
+	facet normal	620.00	620.00	620.00
+		outer loop
+			vertex 621.00	620.00	620.00
+			vertex 623.00	700.00	626.00
+			vertex 624.00	624.00	624.00
+		endloop
+	endfacet
+	facet normal	623.00	623.00	624.00
+		outer loop
+			vertex 624.00	628.00	704.00
+			vertex 627.00	625.00	623.00
+			vertex 623.00	624.00	623.00
+		endloop
+	endfacet
+	facet normal	623.00	623.00	628.00
+		outer loop
+			vertex 704.00	626.00	617.00
+			vertex 618.00	617.00	617.00
+			vertex 617.00	617.00	617.00
+		endloop
+	endfacet
+	facet normal	617.00	617.00	626.00
+		outer loop
+			vertex 618.00	617.00	617.00
+			vertex 617.00	616.00	617.00
+			vertex 618.00	617.00	689.00
+		endloop
+	endfacet
+	facet normal	692.00	621.00	618.00
+		outer loop
+			vertex 617.00	617.00	610.00
+			vertex 609.00	609.00	609.00
+			vertex 614.00	685.00	612.00
+		endloop
+	endfacet
+	facet normal	610.00	614.00	613.00
+		outer loop
+			vertex 612.00	613.00	613.00
+			vertex 613.00	617.00	614.00
+			vertex 620.00	614.00	613.00
+		endloop
+	endfacet
+	facet normal	614.00	613.00	613.00
+		outer loop
+			vertex 613.00	610.00	610.00
+			vertex 685.00	685.00	612.00
+			vertex 610.00	609.00	609.00
+		endloop
+	endfacet
+	facet normal	607.00	606.00	606.00
+		outer loop
+			vertex 606.00	611.00	682.00
+			vertex 609.00	607.00	610.00
+			vertex 609.00	609.00	609.00
+		endloop
+	endfacet
+	facet normal	609.00	609.00	613.00
+		outer loop
+			vertex 610.00	613.00	615.00
+			vertex 613.00	614.00	613.00
+			vertex 612.00	613.00	614.00
+		endloop
+	endfacet
+	facet normal	618.00	695.00	626.00
+		outer loop
+			vertex 618.00	618.00	616.00
+			vertex 617.00	617.00	617.00
+			vertex 617.00	618.00	692.00
+		endloop
+	endfacet
+	facet normal	693.00	619.00	618.00
+		outer loop
+			vertex 621.00	620.00	620.00
+			vertex 620.00	620.00	620.00
+			vertex 624.00	696.00	617.00
+		endloop
+	endfacet
+	facet normal	619.00	618.00	617.00
+		outer loop
+			vertex 616.00	617.00	617.00
+			vertex 617.00	614.00	692.00
+			vertex 620.00	615.00	613.00
+		endloop
+	endfacet
+	facet normal	613.00	613.00	613.00
+		outer loop
+			vertex 613.00	613.00	614.00
+			vertex 690.00	689.00	614.00
+			vertex 614.00	613.00	613.00
+		endloop
+	endfacet
+	facet normal	613.00	613.00	613.00
+		outer loop
+			vertex 613.00	687.00	689.00
+			vertex 613.00	610.00	610.00
+			vertex 609.00	609.00	609.00
+		endloop
+	endfacet
+	facet normal	610.00	609.00	606.00
+		outer loop
+			vertex 684.00	613.00	608.00
+			vertex 606.00	606.00	606.00
+			vertex 606.00	606.00	607.00
+		endloop
+	endfacet
+	facet normal	607.00	685.00	612.00
+		outer loop
+			vertex 608.00	607.00	606.00
+			vertex 599.00	600.00	600.00
+			vertex 599.00	599.00	676.00
+		endloop
+	endfacet
+	facet normal	676.00	599.00	596.00
+		outer loop
+			vertex 597.00	596.00	595.00
+			vertex 596.00	596.00	596.00
+			vertex 596.00	596.00	600.00
+		endloop
+	endfacet
+	facet normal	597.00	596.00	596.00
+		outer loop
+			vertex 596.00	596.00	596.00
+			vertex 600.00	603.00	676.00
+			vertex 605.00	601.00	599.00
+		endloop
+	endfacet
+	facet normal	599.00	600.00	607.00
+		outer loop
+			vertex 606.00	606.00	607.00
+			vertex 686.00	612.00	608.00
+			vertex 607.00	607.00	606.00
+		endloop
+	endfacet
+	facet normal	606.00	606.00	607.00
+		outer loop
+			vertex 607.00	683.00	607.00
+			vertex 610.00	607.00	606.00
+			vertex 606.00	606.00	606.00
+		endloop
+	endfacet
+	facet normal	606.00	607.00	610.00
+		outer loop
+			vertex 681.00	609.00	607.00
+			vertex 606.00	605.00	606.00
+			vertex 610.00	609.00	609.00
+		endloop
+	endfacet
+	facet normal	612.00	688.00	614.00
+		outer loop
+			vertex 610.00	610.00	611.00
+			vertex 610.00	609.00	610.00
+			vertex 610.00	611.00	688.00
+		endloop
+	endfacet
+	facet normal	610.00	611.00	610.00
+		outer loop
+			vertex 609.00	610.00	609.00
+			vertex 609.00	609.00	614.00
+			vertex 618.00	688.00	616.00
+		endloop
+	endfacet
+	facet normal	615.00	613.00	613.00
+		outer loop
+			vertex 613.00	603.00	603.00
+			vertex 602.00	606.00	679.00
+			vertex 606.00	603.00	604.00
+		endloop
+	endfacet
+	facet normal	593.00	592.00	592.00
+		outer loop
+			vertex 593.00	592.00	595.00
+			vertex 668.00	593.00	583.00
+			vertex 582.00	582.00	583.00
+		endloop
+	endfacet
+	facet normal	582.00	582.00	582.00
+		outer loop
+			vertex 583.00	572.00	648.00
+			vertex 574.00	573.00	571.00
+			vertex 571.00	572.00	573.00
+		endloop
+	endfacet
+	facet normal	572.00	572.00	645.00
+		outer loop
+			vertex 648.00	575.00	573.00
+			vertex 573.00	562.00	562.00
+			vertex 562.00	562.00	562.00
+		endloop
+	endfacet
+	facet normal	563.00	640.00	565.00
+		outer loop
+			vertex 544.00	544.00	544.00
+			vertex 543.00	543.00	543.00
+			vertex 544.00	545.00	533.00
+		endloop
+	endfacet
+	facet normal	539.00	535.00	533.00
+		outer loop
+			vertex 533.00	532.00	533.00
+			vertex 532.00	526.00	526.00
+			vertex 599.00	601.00	528.00
+		endloop
+	endfacet
+	facet normal	526.00	526.00	526.00
+		outer loop
+			vertex 526.00	526.00	526.00
+			vertex 526.00	593.00	601.00
+			vertex 529.00	526.00	526.00
+		endloop
+	endfacet
+	facet normal	526.00	526.00	526.00
+		outer loop
+			vertex 526.00	526.00	527.00
+			vertex 526.00	526.00	528.00
+			vertex 526.00	526.00	526.00
+		endloop
+	endfacet
+	facet normal	526.00	526.00	526.00
+		outer loop
+			vertex 527.00	602.00	532.00
+			vertex 528.00	527.00	526.00
+			vertex 525.00	526.00	527.00
+		endloop
+	endfacet
+	facet normal	526.00	526.00	599.00
+		outer loop
+			vertex 538.00	527.00	526.00
+			vertex 523.00	523.00	522.00
+			vertex 522.00	522.00	523.00
+		endloop
+	endfacet
+	facet normal	594.00	522.00	519.00
+		outer loop
+			vertex 520.00	519.00	519.00
+			vertex 519.00	519.00	519.00
+			vertex 519.00	519.00	593.00
+		endloop
+	endfacet
+	facet normal	522.00	520.00	519.00
+		outer loop
+			vertex 519.00	518.00	519.00
+			vertex 527.00	526.00	526.00
+			vertex 602.00	532.00	528.00
+		endloop
+	endfacet
+	facet normal	526.00	533.00	534.00
+		outer loop
+			vertex 533.00	532.00	533.00
+			vertex 534.00	608.00	538.00
+			vertex 527.00	527.00	526.00
+		endloop
+	endfacet
+	facet normal	526.00	526.00	526.00
+		outer loop
+			vertex 526.00	526.00	530.00
+			vertex 604.00	532.00	530.00
+			vertex 530.00	529.00	529.00
+		endloop
+	endfacet
+	facet normal	529.00	530.00	530.00
+		outer loop
+			vertex 529.00	604.00	533.00
+			vertex 530.00	529.00	529.00
+			vertex 523.00	522.00	522.00
+		endloop
+	endfacet
+	facet normal	522.00	523.00	596.00
+		outer loop
+			vertex 527.00	523.00	519.00
+			vertex 519.00	518.00	519.00
+			vertex 519.00	518.00	519.00
+		endloop
+	endfacet
+	facet normal	519.00	512.00	514.00
+		outer loop
+			vertex 512.00	512.00	511.00
+			vertex 512.00	512.00	505.00
+			vertex 505.00	504.00	580.00
+		endloop
+	endfacet
+	facet normal	508.00	505.00	505.00
+		outer loop
+			vertex 505.00	508.00	508.00
+			vertex 508.00	508.00	508.00
+			vertex 582.00	511.00	510.00
+		endloop
+	endfacet
+	facet normal	509.00	508.00	508.00
+		outer loop
+			vertex 508.00	508.00	508.00
+			vertex 508.00	508.00	505.00
+			vertex 506.00	505.00	505.00
+		endloop
+	endfacet
+	facet normal	504.00	504.00	505.00
+		outer loop
+			vertex 505.00	505.00	577.00
+			vertex 540.00	506.00	504.00
+			vertex 504.00	505.00	504.00
+		endloop
+	endfacet
+	facet normal	505.00	504.00	504.00
+		outer loop
+			vertex 574.00	579.00	507.00
+			vertex 505.00	501.00	501.00
+			vertex 501.00	501.00	500.00
+		endloop
+	endfacet
+	facet normal	500.00	500.00	575.00
+		outer loop
+			vertex 497.00	497.00	497.00
+			vertex 497.00	498.00	497.00

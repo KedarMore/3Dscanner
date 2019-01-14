@@ -1,56 +1,41 @@
-/*
-45 degree lead srew....
-start scanning (line)
-rotate platform by 4 degrees
-complete 360 degrees
-.....send each value of distance seperately to C++
-.....DONT calculate in arduino
-.....send 0 as a data at start and end of each column
-*/
-
-#include <Stepper.h>//..........................................................................STEPPER
-const int stepsPerRevolution = 360;  // change this to fit the number of steps per revolution
-                                     // for your motor
-// initialize the stepper library on pins 8 through 11:
-Stepper objectStepper(stepsPerRevolution, 8,9,10,11);
-Stepper leadStepper(stepsPerRevolution, 8,9,10,11);
+#include <Stepper.h>
+const int stepsPerRevolution = 3200;
+Stepper objectStepper(stepsPerRevolution, 37,42);
+Stepper leadStepper(stepsPerRevolution, 38,40);
 
 #include <Servo.h>
+Servo myServo;
 
-Servo myservo;  // create servo object to control a servo.....................................SERVO
-                // a maximum of eight servo objects can be created
-int pos = 0;    // variable to store the servo position
+//CONSTANTS
+int pitch=14;//tpi
+int currentLead=0;
 
-void setup()
-{
-  pinMode(buttonPin, INPUT);//................................................................start button
-
-  while(distValue<=50)//........height is not needed, just keep it
-  {
-    servoPos(lead,0);
-    lead++;
-  }
-  height=lead/1.41;
+void setup() {
+  myServo.attach(44);
+  Serial.begin(9600);
 }
 
-void loop()
-{
-    for(i=0;i<=90;i++)//.....................................................theta scan
+void loop() {
+  for(i=0;i<=90;i++)//.....................................................theta scan
     {
       if(phi%8==0)
       {
+        lead=(tan(i)*l*sqrt(2)/(1+tan(i)));
         servoPos(lead,i);//calculate the relation b/w lead and theta
-        lead=lead+
+        Serial.println(value());
+        currentLead=lead;
       }
       else
       {
+        lead=(tan(90-i)*l*sqrt(2)/(1+tan(90-i)));
         servoPos(lead,90-i);
-        lead=lead-
+        Serial.println(value());
+        currentLead=lead
       }
     }
-    objectStepper.steps(4);
+    objectStepper.steps(degreeTOsteps(4));
+
     phi=phi+4;//..........................................................phi increases
-  }
 }
 
 void servoPos(lead,theta)//........lead is the dist from the base of lead screw
@@ -62,6 +47,20 @@ void servoPos(lead,theta)//........lead is the dist from the base of lead screw
 
 int leadTOsteps(lead)
 {
+
   steps=(lead/pitch)*360;
   return steps;
+}
+
+int degreeTOsteps(degree)
+{
+  steps=degree*stepsPerRevolution/360;
+  return steps;
+}
+
+int value()
+{
+  val=analogRead(A0);
+  val=(6768/(val-3))-4;
+  return val;
 }

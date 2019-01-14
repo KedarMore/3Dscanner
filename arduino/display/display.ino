@@ -1,5 +1,5 @@
 #include "TM1637.h"
-#define CLK 2//pins definitions for TM1637 and can be changed to other ports       
+#define CLK 2//pins definitions for TM1637 and can be changed to other ports
 #define DIO 3
 TM1637 tm1637(CLK, DIO);
 
@@ -11,8 +11,10 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  tm1637.display(0, 1);
+  x=1;
+  tm1637.display(0, x);
   tm1637.display(1, 5);
   tm1637.display(2, 3);
   tm1637.display(3, 6);
+  //speed should be minimum
 }
